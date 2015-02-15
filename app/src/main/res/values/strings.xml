@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageSearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter Search Query</string>
+    <string name="search_label">Search</string>
+    <string name="title_activity_image_display">Full Image</string>
+    <string name="NO_INTERNET_CONNECTION">No Internet Connection</string>
+    <string name="advanced_filer">Advanced Filter</string>
+    <string name="action_share">Share Image</string>
+    <string name="empty_list_label">Enter your query in Search Box</string>
+
+    <string-array name="color_filter">
+        <item>Any</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string-array name="image_size">
+        <item>Any</item>
+        <item>icon</item>
+        <item>small</item>
+        <item>xxlarge</item>
+        <item>huge</item>
+    </string-array>
+
+    <string-array name="image_type">
+        <item>Any</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+
+
+</resources>
